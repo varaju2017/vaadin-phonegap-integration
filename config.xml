@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.example.vaadinwrapped"
+	id		= "com.gitamtest.mobile"
 	version 	= "0.0.1">
 
-	<name>Vaadin PhoneGap integration</name>
-    <author email="jarno.rantala@vaadin.com">
-        Jarno Rantala
+	<name>Glearn</name>
+    <author email="araju.vasupalli@gitam.edu">
+        Raju vasupallli
     </author>
 	<description>
-		Wrapping Vaadin applications inside PhoneGap
+	Gitam glearn
 	</description>
     <icon src="icon.png" gap:role="default" />
     
